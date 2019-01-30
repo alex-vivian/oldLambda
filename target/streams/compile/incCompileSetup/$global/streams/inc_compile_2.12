@@ -1,0 +1,248 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+8 items
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> /Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes/com/example/chuckdave/HelloWorld$$anonfun$$lessinit$greater$1.class
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> /Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes/com/example/chuckdave/HelloWorld$anon$exportEncoder$macro$9$1$$anon$1.class
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> /Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes/com/example/chuckdave/HelloWorld$anon$exportEncoder$macro$9$1$$anon$2.class
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> /Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes/com/example/chuckdave/HelloWorld$anon$exportEncoder$macro$9$1$anon$macro$5$1.class
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> /Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes/com/example/chuckdave/HelloWorld$anon$exportEncoder$macro$9$1.class
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> /Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes/com/example/chuckdave/HelloWorld.class
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> /Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes/com/example/chuckdave/Response$.class
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> /Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes/com/example/chuckdave/Response.class
+binary dependencies:
+7 items
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> /Users/alexvivi/.ivy2/cache/com.amazonaws/aws-lambda-java-core/jars/aws-lambda-java-core-1.1.0.jar
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> /Users/alexvivi/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.2.jar
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> /Users/alexvivi/.ivy2/cache/com.itv.chuckwagon/chuckwagon-jvm_2.12/jars/chuckwagon-jvm_2.12-0.1.3.jar
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> /Users/alexvivi/.ivy2/cache/io.circe/circe-core_2.12/jars/circe-core_2.12-0.7.1.jar
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> /Users/alexvivi/.ivy2/cache/io.circe/circe-generic_2.12/jars/circe-generic_2.12-0.7.1.jar
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> /Users/alexvivi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+8 items
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> com.example.chuckdave.HelloWorld
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> com.example.chuckdave.HelloWorld$$anonfun$$lessinit$greater$1
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> com.example.chuckdave.HelloWorld$anon$exportEncoder$macro$9$1
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> com.example.chuckdave.HelloWorld$anon$exportEncoder$macro$9$1$$anon$1
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> com.example.chuckdave.HelloWorld$anon$exportEncoder$macro$9$1$$anon$2
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> com.example.chuckdave.HelloWorld$anon$exportEncoder$macro$9$1$anon$macro$5$1
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> com.example.chuckdave.Response
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> com.example.chuckdave.Response$
+used names:
+137 items
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> $anon
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> $conforms
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> &&
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> ::
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> <:<
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> <byname>
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> <init>
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> <refinement>
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> <repeated>
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> ==
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> A
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> AbstractFunction1
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Any
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> AnyRef
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Aux
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Boolean
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Context
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Decoder
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> DefaultSymbolicLabelling
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> DerivedObjectEncoder
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Encoder
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Exported
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> FieldType
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Generic
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> H
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> HList
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> HNil
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Handler
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> HelloWorld
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> I
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> IndexOutOfBoundsException
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Int
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Iterable
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Iterator
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Json
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> JsonObject
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> K
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> KH
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> KT
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> KeyTag
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> LabelledGeneric
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Lazy
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> MatchError
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> None
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Nothing
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Object
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> ObjectEncoder
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Option
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Out
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Predef
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Product
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> R
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Repr
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> ReprObjectEncoder
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Response
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> ScalaRunTime
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Serializable
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Some
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> String
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> StringContext
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Symbol
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> T
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> T0
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> T1
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> T2
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Tagged
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Tuple2
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Unit
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> V
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> VH
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> VT
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Vector
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> Witness
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> ZipWithKeys
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> _hashCode
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> _root_
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> _toString
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> a
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> amazonaws
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> anon$exportEncoder$macro$9
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> anon$macro$5
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> apply
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> asInstanceOf
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> auto
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> chuckdave
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> chuckwagon
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> circe
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> collection
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> com
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> decodeUnit
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> deriveEncoder
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> deriveReprObjectEncoder
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> encodeString
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> encoding
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> eq
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> example
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> export
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> exportEncoder
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> fresh$macro$7
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> fresh$macro$8
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> fromIterable
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> generic
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> hconsZipWithKeys
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> head
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> hlist
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> hnilZipWithKeys
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> immutable
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> importedEncoder
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> inst$macro$1
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> inst$macro$10
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> inst$macro$6
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> io
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> isInstanceOf
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> itv
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> labelled
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> lambda
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> lazily
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> materialize
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> materializeProduct
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> mkDefaultSymbolicLabelling
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> mkLazy
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> mkWitness
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> ne
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> p
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> package
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> pat$macro$4
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> response
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> runtime
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> s
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> scala
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> services
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> shapeless
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> tag
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> tail
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> toString
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> typedProductIterator
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> ||
+product stamps:
+8 items
+/Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes/com/example/chuckdave/HelloWorld$$anonfun$$lessinit$greater$1.class -> lastModified(1548761019000)
+/Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes/com/example/chuckdave/HelloWorld$anon$exportEncoder$macro$9$1$$anon$1.class -> lastModified(1548761019000)
+/Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes/com/example/chuckdave/HelloWorld$anon$exportEncoder$macro$9$1$$anon$2.class -> lastModified(1548761019000)
+/Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes/com/example/chuckdave/HelloWorld$anon$exportEncoder$macro$9$1$anon$macro$5$1.class -> lastModified(1548761019000)
+/Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes/com/example/chuckdave/HelloWorld$anon$exportEncoder$macro$9$1.class -> lastModified(1548761019000)
+/Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes/com/example/chuckdave/HelloWorld.class -> lastModified(1548761019000)
+/Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes/com/example/chuckdave/Response$.class -> lastModified(1548761019000)
+/Users/alexvivi/IdeaProjects/chuckdave/target/scala-2.12/classes/com/example/chuckdave/Response.class -> lastModified(1548761019000)
+source stamps:
+1 items
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> hash(9a8c3fffbfeb1f3ac76593ab9f862845c950c7c4)
+binary stamps:
+7 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1538841468000)
+/Users/alexvivi/.ivy2/cache/com.amazonaws/aws-lambda-java-core/jars/aws-lambda-java-core-1.1.0.jar -> lastModified(1444261393000)
+/Users/alexvivi/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.2.jar -> lastModified(1478080252000)
+/Users/alexvivi/.ivy2/cache/com.itv.chuckwagon/chuckwagon-jvm_2.12/jars/chuckwagon-jvm_2.12-0.1.3.jar -> lastModified(1495717958000)
+/Users/alexvivi/.ivy2/cache/io.circe/circe-core_2.12/jars/circe-core_2.12-0.7.1.jar -> lastModified(1491275177000)
+/Users/alexvivi/.ivy2/cache/io.circe/circe-generic_2.12/jars/circe-generic_2.12-0.7.1.jar -> lastModified(1491275202000)
+/Users/alexvivi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
+class names:
+7 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/alexvivi/.ivy2/cache/com.amazonaws/aws-lambda-java-core/jars/aws-lambda-java-core-1.1.0.jar -> com.amazonaws.services.lambda.runtime.Context
+/Users/alexvivi/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.2.jar -> shapeless.DefaultSymbolicLabelling
+/Users/alexvivi/.ivy2/cache/com.itv.chuckwagon/chuckwagon-jvm_2.12/jars/chuckwagon-jvm_2.12-0.1.3.jar -> com.itv.chuckwagon.lambda.Handler
+/Users/alexvivi/.ivy2/cache/io.circe/circe-core_2.12/jars/circe-core_2.12-0.7.1.jar -> io.circe.Json
+/Users/alexvivi/.ivy2/cache/io.circe/circe-generic_2.12/jars/circe-generic_2.12-0.7.1.jar -> io.circe.generic.encoding.ReprObjectEncoder
+/Users/alexvivi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.Serializable
+internal apis:
+1 items
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwW8YgqQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwy4key3QABm5vdGlmeXNxAH4ADDAAsql0AAR3YWl0c3EAfgAMOVv5l3QADSRhc0luc3RhbmNlT2ZzcQB+AAyBOg+zdAAGbG9nZ2Vyc3EAfgAMSdAb6HQADHByb2R1Y3RBcml0eXNxAH4ADDfAxP50AAZlcXVhbHNzcQB+AAz3YpgLdAANaGFuZGxlUmVxdWVzdHNxAH4ADCOo9VN0AAxhc0luc3RhbmNlT2ZzcQB+AAz397vPdAAMc3luY2hyb25pemVkc3EAfgAMl9VbnHQADSRpc0luc3RhbmNlT2ZzcQB+AAxsEvZgdAAIY2FuRXF1YWxzcQB+AAxzxBbcdAANcHJvZHVjdFByZWZpeHNxAH4ADCB4vaJ0AAlub3RpZnlBbGxzcQB+AAwzUwV7dAAMaXNJbnN0YW5jZU9mc3EAfgAM7MVNUXQACHJlc3BvbnNlc3EAfgAMe2Z6JHQABjxpbml0PnNxAH4ADFTi1890AAI9PXNxAH4ADFjxm4t0AAVjbG9uZXNxAH4ADAHWt4B0AAYkaW5pdCRzcQB+AAwLDaFcdAAIUmVzcG9uc2VzcQB+AAwcvyPfdAAEY29weXNxAH4ADAgbeON0AAh0b1N0cmluZ3NxAH4ADBdqHq50AAIhPXNxAH4ADPSNGUd0AApIZWxsb1dvcmxkc3EAfgAMAN0mkHQACGdldENsYXNzc3EAfgAMfgmDcHQADmNvcHkkZGVmYXVsdCQxc3EAfgAM0nLXJ3QAAm5lc3EAfgAMGSljhHQAB2hhbmRsZXJzcQB+AAxusVkcdAACZXFzcQB+AAzqy19SdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMUDLRo3QAAiMjc3EAfgAMa7LDpHQACGZpbmFsaXplc3EAfgAM585lrHQADnByb2R1Y3RFbGVtZW50c3EAfgAMMeMFs3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AW3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHmNvbS5leGFtcGxlLmNodWNrZGF2ZS5SZXNwb25zZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFtMAAlpbmhlcml0ZWRxAH4AW0wAB3BhcmVudHNxAH4AW3hxAH4AeHNxAH4Ac3VxAH4AVgAAAABzcQB+AHN1cQB+AFYAAAAAc3EAfgBzdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB3dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB3c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCRc3EAfgCEcQB+AIdzcQB+AIhzcQB+AIt1cQB+AI4AAAADc3EAfgCQdAAEamF2YXNxAH4AkHQAAmlvcQB+AJVzcQB+AIR0AAdQcm9kdWN0cQB+AIpzcQB+AIR0AAZFcXVhbHNxAH4AinNxAH4AhHQABk9iamVjdHNxAH4AiHNxAH4Ai3VxAH4AjgAAAANzcQB+AJBxAH4Am3NxAH4AkHQABGxhbmdxAH4AlXNxAH4AhHQAA0FueXEAfgCKc3EAfgBYcQB+AGV1cQB+AGYAAAAAc3EAfgBoAHQAIGNvbS5leGFtcGxlLmNodWNrZGF2ZS5IZWxsb1dvcmxkdXEAfgBrAAAAAHEAfgBvdXEAfgBxAAAAAHNxAH4Ac3EAfgB5c3EAfgBzc3EAfgB7c3EAfgBzdXEAfgBWAAAAAHNxAH4Ac3VxAH4AVgAAAABzcQB+AHN1cQB+AIIAAAAEc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCFWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB3c3EAfgCEdAAHSGFuZGxlcnNxAH4AiHNxAH4Ai3VxAH4AjgAAAAVzcQB+AJB0AANjb21zcQB+AJB0AANpdHZzcQB+AJB0AApjaHVja3dhZ29uc3EAfgCQdAAGbGFtYmRhcQB+AJV1cQB+AIIAAAACc3EAfgCEdAAEVW5pdHNxAH4AiHNxAH4Ai3VxAH4AjgAAAAJzcQB+AJBxAH4Ak3EAfgCVc3EAfgCEdAAIUmVzcG9uc2VzcQB+AIhzcQB+AIt1cQB+AI4AAAAEc3EAfgCQdAADY29tc3EAfgCQdAAHZXhhbXBsZXNxAH4AkHQACWNodWNrZGF2ZXEAfgCVc3EAfgCEdAAUUmVxdWVzdFN0cmVhbUhhbmRsZXJzcQB+AIhzcQB+AIt1cQB+AI4AAAAGc3EAfgCQdAADY29tc3EAfgCQdAAJYW1hem9uYXdzc3EAfgCQdAAIc2VydmljZXNzcQB+AJB0AAZsYW1iZGFzcQB+AJB0AAdydW50aW1lcQB+AJVzcQB+AIRxAH4Ao3NxAH4AiHNxAH4Ai3VxAH4AjgAAAANzcQB+AJBxAH4Am3NxAH4AkHEAfgCpcQB+AJVzcQB+AIRxAH4Aq3EAfgDOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALY29tLmV4YW1wbGVzcQB+APV0AANjb21zcQB+APV0ABVjb20uZXhhbXBsZS5jaHVja2RhdmVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWiZWYZvdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQC9Vc2Vycy9hbGV4dml2aS9JZGVhUHJvamVjdHMvY2h1Y2tkYXZlL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSajD//v+sfOsdlk6ufhihFyVDHxA==
+external apis:
+0 items
+source infos:
+1 items
+/Users/alexvivi/IdeaProjects/chuckdave/src/main/scala/com/example/chuckdave/HelloWorld.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaJlZhm91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9hbGV4dml2aS9JZGVhUHJvamVjdHMvY2h1Y2tkYXZlL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
