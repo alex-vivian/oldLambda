@@ -19,7 +19,7 @@ chuckPublishConfig := chuckPublishConfigBuilder
   .withHandler("com.example.chuckdave.HelloWorld::handleRequest")
   .withMemorySizeInMB(192)
   .withTimeout("5 seconds")
-  .withStagingBucketName("chuckdave")
+  .withStagingBucketName("hubsvc-caoilte-test")
   .withCodeFile(assembly)
   .withRoleARN("arn:aws:iam::586133794935:role/dev_iam_profile_lambda_execute-default_role")
 
