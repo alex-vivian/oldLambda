@@ -7,7 +7,7 @@
 		revision="0.0.1"
 		conf="default"
 		confs="default"
-		date="20190129094537"/>
+		date="20190130101706"/>
 	<dependencies>
 		<module organisation="com.itv.chuckwagon" name="sbt-chuckwagon">
 			<revision name="0.1.3" status="release" pubdate="20170525141155" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://io.itv.com/chuckwagon/" extra-scalaVersion="2.10" extra-sbtVersion="0.13" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="49">

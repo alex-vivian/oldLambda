@@ -4,7 +4,7 @@
 		module="chuckdave$sbt_2.10"
 		revision="0.0.1"
 		status="integration"
-		publication="20190129094537"
+		publication="20190130101706"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>

@@ -4,7 +4,7 @@
 		module="chuckdave$sources_2.10"
 		revision="0.0.1"
 		status="integration"
-		publication="20190129094539"
+		publication="20190130101707"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

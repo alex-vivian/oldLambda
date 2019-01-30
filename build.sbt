@@ -21,4 +21,5 @@ chuckPublishConfig := chuckPublishConfigBuilder
   .withTimeout("5 seconds")
   .withStagingBucketName("chuckdave")
   .withCodeFile(assembly)
-  
+  .withRoleARN("arn:aws:iam::586133794935:role/dev_iam_profile_lambda_execute-default_role")
+
